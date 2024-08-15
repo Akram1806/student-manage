@@ -1,4 +1,4 @@
 # student-manage
-this is my first git repo.
+Theres first time for everything
 <br>
 Author -  MD.Akram
